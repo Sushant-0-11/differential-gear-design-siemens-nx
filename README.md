@@ -1,2 +1,3 @@
 # differential-gear-design-siemens-nx
-3D design and assembly modeling of an automotive differential gear system using Siemens NX with engineering design validation.
+This project involves the CAD modeling and assembly of an automotive differential gear mechanism using Siemens NX.
+The work includes part modeling, assembly creation, engineering drawings, and design validation to understand power transmission and gear system functionality.
